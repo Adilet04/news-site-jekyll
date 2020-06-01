@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>CGLAYERS</title>
+		<description>Новые инструменты и технологии компьютерной графики</description>
+		<link>http://geektop.ru</link>
+		<atom:link href="http://geektop.ru/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>В UNIGINE 2.8 Оптимизизировали работу с тенями</title>
+				<description><![CDATA[
+					<a href="http://geektop.ru/blog/reviews/2019-07-06-v-unigine-2-8-optimizizirovali-rabotu-s-tenyami.html"><img width="100%" src="http://geektop.ruimages/reviews/2018/2019-07-06-v-unigine-2.8-optimizizirovali-rabotu-s-tenyami/1.png"></a>
+					Новое руководство по использованию Cached Shadows было выпущено для Unigine.
+					]]></description>
+				<pubDate>Sat, 06 Jul 2019 00:00:00 +0300</pubDate>
+				<link>http://geektop.ru/blog/reviews/2019-07-06-v-unigine-2-8-optimizizirovali-rabotu-s-tenyami.html</link>
+				<guid isPermaLink="true">http://geektop.ru/blog/reviews/2019-07-06-v-unigine-2-8-optimizizirovali-rabotu-s-tenyami.html</guid>
+			</item>
+		
+			<item>
+				<title>Новый взгляд на картину маслом</title>
+				<description><![CDATA[
+					<a href="http://geektop.ru/blog/diy/2019-07-05-novyj-vzglyad-na-kartinu-maslom.html"><img width="100%" src="http://geektop.ruimages/diy/2018/2019-07-05-novyj-vzglyad-na-kartinu-maslom/1.png"></a>
+					Мартон Золтан Тот переделал классическую картину Меднянского с фантастическим уклоном
+					]]></description>
+				<pubDate>Fri, 05 Jul 2019 00:00:00 +0300</pubDate>
+				<link>http://geektop.ru/blog/diy/2019-07-05-novyj-vzglyad-na-kartinu-maslom.html</link>
+				<guid isPermaLink="true">http://geektop.ru/blog/diy/2019-07-05-novyj-vzglyad-na-kartinu-maslom.html</guid>
+			</item>
+		
+			<item>
+				<title>Интеграция 2D-фонов в 3D-рендеры</title>
+				<description><![CDATA[
+					<a href="http://geektop.ru/blog/diy/2019-07-05-integraciya-2d-fonov-v-3d-rendery.html"><img width="100%" src="http://geektop.ruimages/diy/2018/2019-07-05-integraciya-2d-fonov-v-3d-rendery/1.png"></a>
+					Новый учебник, объясняющий, как интегрировать 2D-фон и изображения в 3D-рендеры
+					]]></description>
+				<pubDate>Fri, 05 Jul 2019 00:00:00 +0300</pubDate>
+				<link>http://geektop.ru/blog/diy/2019-07-05-integraciya-2d-fonov-v-3d-rendery.html</link>
+				<guid isPermaLink="true">http://geektop.ru/blog/diy/2019-07-05-integraciya-2d-fonov-v-3d-rendery.html</guid>
+			</item>
+		
+			<item>
+				<title>Щелкунчик и Четыре Царства - VFX от Rodeo FX</title>
+				<description><![CDATA[
+					<a href="http://geektop.ru/blog/lifehacks/2019-07-05-shhelkunchik-i-chetyre-carstva-vfx-ot-rodeo-fx.html"><img width="100%" src="http://geektop.ruimages/lifehacks/2018/2019-07-05-shhelkunchik-i-chetyre-carstva---vfx-ot-rodeo-fx/1.png"></a>
+					Rodeo FX опубликовали данные о работе над Щелкунчиком и Четыреми Царствами .
+					]]></description>
+				<pubDate>Fri, 05 Jul 2019 00:00:00 +0300</pubDate>
+				<link>http://geektop.ru/blog/lifehacks/2019-07-05-shhelkunchik-i-chetyre-carstva-vfx-ot-rodeo-fx.html</link>
+				<guid isPermaLink="true">http://geektop.ru/blog/lifehacks/2019-07-05-shhelkunchik-i-chetyre-carstva-vfx-ot-rodeo-fx.html</guid>
+			</item>
+		
+			<item>
+				<title>Red Giant выпустил VFX Suite</title>
+				<description><![CDATA[
+					<a href="http://geektop.ru/blog/lifehacks/2019-07-05-red-giant-vypustil-vfx-suite.html"><img width="100%" src="http://geektop.ruimages/lifehacks/2018/2019-07-05-red-giant-vypustil-vfx-suite/2.png"></a>
+					Red Giant выпустил новый пакет из девяти плагинов After Effects
+					]]></description>
+				<pubDate>Fri, 05 Jul 2019 00:00:00 +0300</pubDate>
+				<link>http://geektop.ru/blog/lifehacks/2019-07-05-red-giant-vypustil-vfx-suite.html</link>
+				<guid isPermaLink="true">http://geektop.ru/blog/lifehacks/2019-07-05-red-giant-vypustil-vfx-suite.html</guid>
+			</item>
+		
+			<item>
+				<title>Бесплатный пакет органических материалов с 4k текстурами</title>
+				<description><![CDATA[
+					<a href="http://geektop.ru/blog/it-news/2019-07-05-besplatnyj-4k-paket-organicheskih-materialov.html"><img width="100%" src="http://geektop.ruimages/it-news/2018/2019-07-05-besplatnyj-4k-paket-organicheskih-materialov/1.png"></a>
+					Набор простых веществ, которые могут помочь вам сделать кровавых монстров.
+					]]></description>
+				<pubDate>Fri, 05 Jul 2019 00:00:00 +0300</pubDate>
+				<link>http://geektop.ru/blog/it-news/2019-07-05-besplatnyj-4k-paket-organicheskih-materialov.html</link>
+				<guid isPermaLink="true">http://geektop.ru/blog/it-news/2019-07-05-besplatnyj-4k-paket-organicheskih-materialov.html</guid>
+			</item>
+		
+			<item>
+				<title>Бесплатное 3D-сканирование головы человека в высоком разрешении</title>
+				<description><![CDATA[
+					<a href="http://geektop.ru/blog/it-news/2019-07-05-besplatnoe-3d-skanirovanie-golovy-cheloveka-v-vysokom-razreshenii.html"><img width="100%" src="http://geektop.ruimages/it-news/2018/2019-07-05-besplatnoe-3d-skanirovanie-golovy-cheloveka-v-vysokom-razreshenii/1.png"></a>
+					Бесплатное сканирование 3D-головы.
+					]]></description>
+				<pubDate>Fri, 05 Jul 2019 00:00:00 +0300</pubDate>
+				<link>http://geektop.ru/blog/it-news/2019-07-05-besplatnoe-3d-skanirovanie-golovy-cheloveka-v-vysokom-razreshenii.html</link>
+				<guid isPermaLink="true">http://geektop.ru/blog/it-news/2019-07-05-besplatnoe-3d-skanirovanie-golovy-cheloveka-v-vysokom-razreshenii.html</guid>
+			</item>
+		
+			<item>
+				<title>Lumion 9.5 выпущен с новыми активами</title>
+				<description><![CDATA[
+					<a href="http://geektop.ru/blog/reviews/2019-07-05-lumion-9-5-vypushhen-s-novymi-aktivami.html"><img width="100%" src="http://geektop.ruimages/reviews/2018/2019-07-05-lumion-9.5-vypushhen-s-novymi-aktivami/1.png"></a>
+					Lumion выпустила обновление программного обеспечения
+					]]></description>
+				<pubDate>Fri, 05 Jul 2019 00:00:00 +0300</pubDate>
+				<link>http://geektop.ru/blog/reviews/2019-07-05-lumion-9-5-vypushhen-s-novymi-aktivami.html</link>
+				<guid isPermaLink="true">http://geektop.ru/blog/reviews/2019-07-05-lumion-9-5-vypushhen-s-novymi-aktivami.html</guid>
+			</item>
+		
+			<item>
+				<title>Выпущен Thinking Particles Drop 8</title>
+				<description><![CDATA[
+					<a href="http://geektop.ru/blog/electronics/2019-07-05-vypushhen-thinking-particles-drop-8.html"><img width="100%" src="http://geektop.ruimages/electronics/2018/2019-07-05-vypushhen-thinking-particles-drop-8/1.png"></a>
+					Cebas Visual Technology объявила о выпуске подписки Thinking Particles Drop 8, в которую добавлено 35 новых операторов OpenVDB
+					]]></description>
+				<pubDate>Fri, 05 Jul 2019 00:00:00 +0300</pubDate>
+				<link>http://geektop.ru/blog/electronics/2019-07-05-vypushhen-thinking-particles-drop-8.html</link>
+				<guid isPermaLink="true">http://geektop.ru/blog/electronics/2019-07-05-vypushhen-thinking-particles-drop-8.html</guid>
+			</item>
+		
+			<item>
+				<title>Новый коммерческий плагин для Houdini Feather Tools</title>
+				<description><![CDATA[
+					<a href="http://geektop.ru/blog/electronics/2019-07-05-novyj-kommercheskij-plagin-dlya-houdini-feather-tools.html"><img width="100%" src="http://geektop.ruimages/electronics/2018/2019-07-05--novyj-kommercheskij-plagin-dlya-houdini-feather-tools/1.png"></a>
+					Художник Mill FX Tighe Rzankowski выпустил  Feather Tools
+					]]></description>
+				<pubDate>Fri, 05 Jul 2019 00:00:00 +0300</pubDate>
+				<link>http://geektop.ru/blog/electronics/2019-07-05-novyj-kommercheskij-plagin-dlya-houdini-feather-tools.html</link>
+				<guid isPermaLink="true">http://geektop.ru/blog/electronics/2019-07-05-novyj-kommercheskij-plagin-dlya-houdini-feather-tools.html</guid>
+			</item>
+		
+	</channel>
+</rss>
